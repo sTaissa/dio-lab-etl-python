@@ -1,0 +1,4 @@
+passenger_id,first_name,last_name,age,nationality,departure,destination,flight_number,departure_date,seat_number,recomendation
+1,Trenton,Arkley,53,France,Brazil,Portugal,DL456,03/12/2022,B2,"Trenton, explore a beleza histórica de Portugal: Castelos, vinícolas e paisagens deslumbrantes aguardam por você!"
+2,Daron,Bottinelli,34,Venezuela,China,China,DL456,28/10/2022,B2,Descubra a grandeza e a beleza da China com nossos voos para Daron! #ExploreChina #ViagemIncrível
+3,Nike,Lindberg,64,Afghanistan,Indonesia,China,DL456,30/07/2022,B2,Explore a fascinante cultura chinesa e mergulhe no cenário de moda dinâmica de Xangai com a Nike!
